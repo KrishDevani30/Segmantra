@@ -1,0 +1,4 @@
+2026-02-20T08:00:31.359Z [console][warn] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+2026-02-20T08:03:13.830Z [console][warn] Skipping auto-scroll behavior due to `position: sticky` or `position: fixed` on element: [Object]
+2026-02-20T08:03:38.830Z [console][warn] Skipping auto-scroll behavior due to `position: sticky` or `position: fixed` on element: [Object]
+2026-02-20T08:04:37.912Z [console][warn] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.

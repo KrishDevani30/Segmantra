@@ -1,0 +1,65 @@
+﻿
+> nextjs-new@0.1.0 lint
+> eslint
+
+
+C:\Users\krris\OneDrive\Desktop\Segmantra\Segmantra\src\components\3d\HeroScene.tsx
+  3:20  warning  'useRef' is defined but never used         @typescript-eslint/no-unused-vars
+  3:28  warning  'useState' is defined but never used       @typescript-eslint/no-unused-vars
+  3:38  warning  'useEffect' is defined but never used      @typescript-eslint/no-unused-vars
+  4:8   warning  'dynamic' is defined but never used        @typescript-eslint/no-unused-vars
+  6:10  warning  'OrbitControls' is defined but never used  @typescript-eslint/no-unused-vars
+  6:25  warning  'Environment' is defined but never used    @typescript-eslint/no-unused-vars
+
+C:\Users\krris\OneDrive\Desktop\Segmantra\Segmantra\src\components\3d\ParticleField.tsx
+  20:21  warning  'sizes' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\krris\OneDrive\Desktop\Segmantra\Segmantra\src\components\layout\Footer.tsx
+  4:10  warning  'motion' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\krris\OneDrive\Desktop\Segmantra\Segmantra\src\components\layout\ScrollProgress.tsx
+  3:10  warning  'useEffect' is defined but never used  @typescript-eslint/no-unused-vars
+  3:21  warning  'useRef' is defined but never used     @typescript-eslint/no-unused-vars
+
+C:\Users\krris\OneDrive\Desktop\Segmantra\Segmantra\src\components\layout\ScrollTimeline.tsx
+  109:13  warning  'endFrac' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\krris\OneDrive\Desktop\Segmantra\Segmantra\src\components\sections\BenchmarksContent.tsx
+   3:10  warning  'useRef' is defined but never used        @typescript-eslint/no-unused-vars
+   3:18  warning  'useEffect' is defined but never used     @typescript-eslint/no-unused-vars
+   4:10  warning  'motion' is defined but never used        @typescript-eslint/no-unused-vars
+   4:18  warning  'useInView' is defined but never used     @typescript-eslint/no-unused-vars
+  69:52  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:26  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\krris\OneDrive\Desktop\Segmantra\Segmantra\src\components\sections\DemoCharts.tsx
+  15:3   warning  'Legend' is defined but never used        @typescript-eslint/no-unused-vars
+  36:52  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:26  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\krris\OneDrive\Desktop\Segmantra\Segmantra\src\components\sections\DemoInterface.tsx
+  3:20  warning  'useRef' is defined but never used       @typescript-eslint/no-unused-vars
+  3:39  warning  'useCallback' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\krris\OneDrive\Desktop\Segmantra\Segmantra\src\components\sections\FeatureSections.tsx
+    3:10  warning  'useRef' is defined but never used                                      @typescript-eslint/no-unused-vars
+    4:10  warning  'motion' is defined but never used                                      @typescript-eslint/no-unused-vars
+    4:18  warning  'useInView' is defined but never used                                   @typescript-eslint/no-unused-vars
+    5:35  warning  'BarChart2' is defined but never used                                   @typescript-eslint/no-unused-vars
+    5:46  warning  'Globe' is defined but never used                                       @typescript-eslint/no-unused-vars
+   63:32  warning  'index' is defined but never used                                       @typescript-eslint/no-unused-vars
+  133:65  error    Comments inside children section of tag should be placed inside braces  react/jsx-no-comment-textnodes
+  161:74  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`         react/no-unescaped-entities
+
+C:\Users\krris\OneDrive\Desktop\Segmantra\Segmantra\src\components\sections\SegmentationTypes.tsx
+   4:10  warning  'motion' is defined but never used            @typescript-eslint/no-unused-vars
+   4:18  warning  'useInView' is defined but never used         @typescript-eslint/no-unused-vars
+  43:12  warning  'hovered' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\krris\OneDrive\Desktop\Segmantra\Segmantra\src\components\ui\ScrollReveal.tsx
+   3:29  warning  'Variant' is defined but never used       @typescript-eslint/no-unused-vars
+  32:63  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+Γ£û 35 problems (7 errors, 28 warnings)
+
+
